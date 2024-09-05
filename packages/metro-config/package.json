@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "cosmiconfig": "^5.0.5",
-    "jest-validate": "^26.0.1",
+    "jest-validate": "^27.2.2",
     "metro": "0.62.0",
     "metro-cache": "0.62.0",
     "metro-core": "0.62.0",
