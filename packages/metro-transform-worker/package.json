@@ -13,10 +13,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "^7.0.0",
+    "@babel/core": "^7.23.2",
     "@babel/generator": "^7.5.0",
     "@babel/parser": "^7.0.0",
-    "@babel/types": "^7.0.0",
+    "@babel/types": "^7.13.16",
     "babel-preset-fbjs": "^3.3.0",
     "metro-babel-transformer": "0.62.0",
     "metro-cache": "0.62.0",
