@@ -64,7 +64,7 @@
     "temp": "0.8.3",
     "throat": "^5.0.0",
     "ws": "^1.1.5",
-    "yargs": "^15.3.1"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@babel/plugin-transform-flow-strip-types": "^7.0.0",
